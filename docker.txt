@@ -1,0 +1,6 @@
+cls
+docker ps
+docker pr--all
+docker run <image>
+docker run hello-wold
+docker run busybox ping google.c
